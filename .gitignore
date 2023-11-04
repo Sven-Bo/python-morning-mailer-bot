@@ -1,0 +1,11 @@
+.env
+# Python cache files
+__pycache__/
+*.pyc
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Jupyter notebook checkpoint directories
+.ipynb_checkpoints/
