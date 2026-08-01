@@ -42,10 +42,11 @@ Simply clone the repository, set up your `.env` file with the necessary keys and
 - **Weather:** [Weatherbit](https://www.weatherbit.io/)
 - **Email Setup:** [Outlook Account Creation](https://www.microsoft.com/en-us/microsoft-365-life-hacks/organization/how-to-create-outlook-email-account)
 
-## More Solutions
-Explore my tools and templates for Excel, automation, and more.
+## Learn Excel Automation with Python
+If this repo helped you, my [Excel Automation Course](https://pythonandvba.com/excel-automation-course/) teaches the full workflow from zero: Python for Excel users, xlwings, pandas and real projects.
 
-**[View all solutions](https://pythonandvba.com/solutions)**
+Also check out my other [tools and templates](https://pythonandvba.com/solutions).
+
 ## Connect with Me
 - **YouTube:** [CodingIsFun](https://youtube.com/c/CodingIsFun)
 - **Website:** [PythonAndVBA](https://pythonandvba.com)
